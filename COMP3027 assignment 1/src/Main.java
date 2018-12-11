@@ -39,8 +39,6 @@ class Main
 		// you will want to put the data in a different data structure
 		// (you don't need anything fancy, but two separate lists might
 		// be a little bit awkward)
-
-		// TODO: implement your algorithm
 		
 		
 		double answer = 0.0;
